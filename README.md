@@ -27,7 +27,7 @@ User → Internet → Public IP → Web Server → (private) → Database Server
 
 ## 📄 Documentation
 - [Lab 02 slide deck (PDF)](LinkedIn_Carousel_Lab02_Two_Tier_Architecture.pdf)
-- [Editable diagram (draw.io)](Azure_Two_Tier_Architecture.drawio)
+- [Editable diagram (draw.io)](<Azure_Two_Tier_Architecture (2).drawio.png>)
 
 ## ⏭️ Next Steps
 Deploy this architecture on Microsoft Azure and test that the web tier works while the database stays private.
