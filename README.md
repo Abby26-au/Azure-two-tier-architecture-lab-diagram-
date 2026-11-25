@@ -1,4 +1,4 @@
-# Lab 02: Two-Tier Architecture on Azure
+# Lab 02: Two-Tier Architecture on Azure diagram explanation 
 
 A two-tier design with a public web tier and a private data tier, built with security-first principles.
 
