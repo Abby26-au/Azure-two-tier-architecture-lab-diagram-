@@ -3,7 +3,7 @@
 A two-tier design with a public web tier and a private data tier, built with security-first principles.
 
 ## 🎥 Video Walkthrough
-[▶️ Watch the walkthrough on Loom](https://www.loom.com/share/b0554f2eb69346408220014a7a0b5a0a)
+[▶️ Watch the walkthrough on Loom](https://www.loom.com/share/d20b000f0d9a432b8fb083ac12a03afd)
 
 ## 📐 Architecture Diagram
 ![Two-Tier Architecture on Azure](architecture.png)
