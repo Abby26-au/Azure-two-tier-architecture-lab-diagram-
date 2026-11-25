@@ -3,7 +3,7 @@
 A two-tier design with a public web tier and a private data tier, built with security-first principles.
 
 ## 🎥 Video Walkthrough
-[▶️ Watch the walkthrough on Loom](https://www.loom.com/share/d20b000f0d9a432b8fb083ac12a03afd)
+[▶️ Watch the walkthrough on Loom](https://www.loom.com/share/b0554f2eb69346408220014a7a0b5a0a)
 
 ## 📐 Architecture Diagram
 ![Two-Tier Architecture on Azure](architecture.png)
@@ -27,7 +27,7 @@ User → Internet → Public IP → Web Server → (private) → Database Server
 
 ## 📄 Documentation
 - [Lab 02 slide deck (PDF)](LinkedIn_Carousel_Lab02_Two_Tier_Architecture.pdf)
-- [Editable diagram (draw.io)](<Azure_Two_Tier_Architecture (2).drawio.png>)
+- [Editable diagram (draw.io)](Azure_Two_Tier_Architecture.drawio)
 
-## ⏭️ Next Steps
-Deploy this architecture on Microsoft Azure and test that the web tier works while the database stays private.
+## ⏭️ Build
+This design was deployed on Microsoft Azure. See the build lab: [azure-two-tier-build-lab](https://github.com/Abby26-au/azure-two-tier-build-lab)
